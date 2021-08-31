@@ -1,2 +1,4 @@
 # covid-unlock
 This is my first repository after a long time. It detects the face of the of person even with mask on.
+            Now a days every one is wearing mask to reduce the risk of covid transmission but there is also a risk of security if every one is wearing mask and we can’t detect who is the person that is wearing the mask so we can ensure that he is the one who has to enter our office building or he is the one who is breaking the rules
+The face detection with the mask is done by the real time process and will be using the data set that is already available in the system so first we will take the data which here means image and we will train the image using many methods that are available to detect face and we added the lines by which it can also use CUDA cores and there will be less impact on cpu.
